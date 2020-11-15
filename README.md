@@ -1,3 +1,4 @@
+### Warns: Working
 # django-nginx-postgres-docker
 A Docker Compose starter kit with Nginx, Django, Gunicorn, and Postgres database. You can use this as a template to build out your own Django application for development or production. The Postgres data is saved locally in the `postgres` directory, and any changes saved to the database while the app is running will persist.  Static and media files are configured to be served by Nginx, and stored locally in the `static_volume` and `media_volume` directories.
 
